@@ -9,8 +9,8 @@
 <a href="https://medium.com/@vaibhavmcudc145">
   <img align="left" alt="Vaibhav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Vaibhavabhaysharma.Vaibhavabhaysharma)
-[![GitHub followers](https://img.shields.io/github/followers/Vaibhavabhaysharma.svg?style=social&label=Follow)](https://github.com/Vaibhavabhaysharma?tab=followers)
+<!--[visitors](https://visitor-badge.laobi.icu/badge?page_id=Vaibhavabhaysharma.Vaibhavabhaysharma)
+[![GitHub followers](https://img.shields.io/github/followers/Vaibhavabhaysharma.svg?style=social&label=Follow)](https://github.com/Vaibhavabhaysharma?tab=followers)-->
 
 #### About Me
 
