@@ -10,6 +10,8 @@
   <img align="left" alt="Vaibhav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
+
+
 - 🔭 I’m currently working on a few ML projects. 📈📉📊
 - 🌱 I’m currently learning Web development and Web design side by side.
 - 👯 I’m looking to collaborate on my CRM application 👀
