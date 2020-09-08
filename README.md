@@ -20,6 +20,6 @@
 - 👯 I’m looking to collaborate on my CRM application 👀
 - 🤔 I’m looking for help with anything which I can learn from you.
 - 💬 Ask me about anything, I will satisfy you.
-- 📫 How to reach me:<a href="mailto:vaibhavmcudc145@gmail.com">mail me</a>
+- 📫 How to reach me: <a href="mailto:vaibhavmcudc145@gmail.com">mail me</a>
 - 😄 Pronouns: Abhay/Chicku
 - ⚡ Fun fact: Superman didn't always fly...🦸🏻
