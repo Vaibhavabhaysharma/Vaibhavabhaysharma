@@ -18,6 +18,6 @@
 - 👯 I’m looking to collaborate on my CRM application 👀<br/>
 - 🤔 I’m looking for help with anything which I can learn from you.<br/>
 - 💬 Ask me about anything, I will satisfy you.<br/>
-- 📫 How to reach me:<a href="mailto:vaibhavmcudc145@gmail.com">mail me</a><br/>
+- 📫 How to reach me: <a href="mailto:vaibhavmcudc145@gmail.com">mail me</a><br/>
 - 😄 Pronouns: Abhay/Chicku<br/>
 - ⚡ Fun fact: Superman didn't always fly...🦸🏻<br/>
