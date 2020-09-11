@@ -2,9 +2,9 @@
 <a href="https://twitter.com/__Vaibhavsharma">
 <img align="left" alt="Vaibhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/vaibhavsharmatheonly/">
-<img align="left" alt="Vaibhav's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
+
+
 <a href="https://medium.com/@vaibhavmcudc145">
 <img align="left" alt="Vaibhav's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a><br/>   
