@@ -1,4 +1,4 @@
-### Hola 👋, I'm Vaibhav  
+### Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Vaibhav  
 <a href="https://twitter.com/__Vaibhavsharma">
 <img align="left" alt="Vaibhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
