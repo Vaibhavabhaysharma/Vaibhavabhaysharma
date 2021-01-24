@@ -19,5 +19,5 @@
 - 🤔 I’m looking for help with anything which I can learn from you.<br/>
 - 💬 Ask me about anything, I will satisfy you.<br/>
 - 📫 How to reach me: <a href="mailto:vaibhavmcudc145@gmail.com">mail me</a><br/>
-- 😄 Pronouns: Abhay/Chicku<br/>
+- 😄 Pronouns: he/him/his/<br/>
 - ⚡ Fun fact: Superman didn't always fly...🦸🏻<br/>
