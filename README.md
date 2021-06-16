@@ -14,7 +14,7 @@
 #### About Me   
 <br/>
 - 🔭 I’m currently working on a few ML projects. 📈📉📊<br/>
-- 🌱 I’m currently learning Web development and Web design side by side.<br/>  
+- 🌱 I’m currently learning MERN stack and applied data science side by side.<br/>  
 - 👯 I’m looking to collaborate on some web develpoment projects 👀<br/>
 - 🤔 I’m looking for help with anything which I can learn from you.<br/>
 - 💬 Ask me about anything, I will satisfy you.<br/>
