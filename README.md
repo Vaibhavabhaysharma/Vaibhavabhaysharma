@@ -9,7 +9,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Vaibhavabhaysharma.svg?style=social&label=Follow)](https://github.com/Vaibhavabhaysharma?tab=followers)-->  
 
 ```js
-const Vishruth = {
+const Vaibhav = {
   Languages: [JavaScript, HTML, CSS, C++, C, Python],
   Technologies: [ReactJS, Node.js, Express, Git, Bootstrap],
   Databases : [SQL, MongoDB]
