@@ -10,8 +10,8 @@
 
 ```js
 const Vishruth = {
-  Languages: [JavaScript, HTML, CSS, C++, C, Python, Typescript],
-  Technologies: [ReactJS,NextJS, Node.js, Express, Git, Bootstrap],
+  Languages: [JavaScript, HTML, CSS, C++, C, Python],
+  Technologies: [ReactJS, Node.js, Express, Git, Bootstrap],
   Databases : [SQL, MongoDB]
 }
 ```
@@ -23,7 +23,6 @@ const Vishruth = {
 ![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhavabhaysharma&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
             
 ![](https://komarev.com/ghpvc/?username=Vaibhavabhaysharma&color=7F00FF)
-
 
 #### About Me   
 <br/>
