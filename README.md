@@ -20,8 +20,6 @@ const Vaibhav = {
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavabhaysharma/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-394248?style=for-the-badge&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/vaibhavmcudc145)
 
-![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhavabhaysharma&show_icons=true&count_private=true&theme=radical&include_all_commits=true)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavabhaysharma&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats) 
             
 ![](https://komarev.com/ghpvc/?username=Vaibhavabhaysharma&color=7F00FF)
