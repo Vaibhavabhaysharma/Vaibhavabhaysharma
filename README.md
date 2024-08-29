@@ -10,7 +10,7 @@
 
 ```js
 const Vaibhav = {
-  Languages: [Java ,JavaScript, HTML, CSS, C++, C, Python],
+  Languages: [Java ,C++, Python, JavaScript, HTML, CSS, , C],
   Technologies: [Angular, Node.js, Express, Git, Bootstrap],
   Databases : [SQL, MongoDB]
 }
