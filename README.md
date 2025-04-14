@@ -1,4 +1,8 @@
 ### Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://Vaibhavabhaysharma.github.io" target="_blank"> Vaibhav</a> 
+[![Protfolio](https://img.shields.io/badge/Portfolio-239?style=for-the-badge&logo='https://Vaibhavabhaysharma.github.io'=&logoColor=white)](https://Vaibhavabhaysharma.github.io)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavabhaysharma/)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-394248?style=for-the-badge&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/vaibhavmcudc145)
+
 <!-- <a href="https://twitter.com/__Vaibhavsharma">
 <img align="left" alt="Vaibhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
@@ -15,16 +19,10 @@ const Vaibhav = {
   Databases : [SQL, MongoDB]
 }
 ```
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavabhaysharma&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 
-[![Protfolio](https://img.shields.io/badge/Portfolio-239?style=for-the-badge&logo='https://Vaibhavabhaysharma.github.io'=&logoColor=white)](https://Vaibhavabhaysharma.github.io)
-[![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavabhaysharma/)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-394248?style=for-the-badge&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/vaibhavmcudc145)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavabhaysharma&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats) 
-            
 ![](https://komarev.com/ghpvc/?username=Vaibhavabhaysharma&color=brightgreen)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavabhaysharma&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 
 #### About Me   
 <br/>
