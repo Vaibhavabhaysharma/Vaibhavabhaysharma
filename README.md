@@ -24,10 +24,13 @@ const Vaibhav = {
             
 ![](https://komarev.com/ghpvc/?username=Vaibhavabhaysharma&color=brightgreen)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhavabhaysharma&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+
 #### About Me   
 <br/>
-🚀 I am a passionate and results-driven Software Engineer (Full Stack) with 2.9 years of experience building scalable backend services and dynamic frontend components, primarily using Java, Spring Boot, Angular, and MongoDB.<br/>
-🌐 Currently working at Formidium, I’ve contributed to fintech platforms with real-time transaction systems and secure user authentication, collaborating across three engineering teams.<br/>
+🚀 I am a passionate and results-driven Software Engineer (Full Stack) with 2.9 years of experience building scalable applications.<br/>
+🛠  I’ve primarily used Java, Spring Boot, Angular, and MongoDB in creating seamless backend services and dynamic frontend components<br/>
+🌐 I’ve contributed to fintech platforms with real-time transaction systems and secure user authentication, collaborating across three engineering teams.<br/>
 🌟 I thrive in cross-functional environments, driving end-to-end development and optimizing system performance.<br/>
 
 🔧 Designed and implemented RESTful microservices using Spring Boot, ensuring high performance and modular scalability.<br/>
@@ -41,11 +44,9 @@ const Vaibhav = {
 📚 A lifelong learner, I actively upskill through hands-on projects and knowledge sharing—mentoring over four junior developers along the way.<br/>
 🏆 I value clarity, collaboration, and clean code, and believe that great products emerge when engineers align technical excellence with user-first thinking.<br/>
 
-- 🔭 I’m currently working on a few ML projects. 📈📉📊<br/>
-- 🌱 I’m currently learning MERN stack and applied data science side by side.<br/>  
-- 👯 I’m looking to collaborate on some web develpoment projects 👀<br/>
-- 🤔 I’m looking for help with anything which I can learn from you.<br/>
-- 💬 Ask me about anything, I will try to satisfy you.<br/>
-- 📫 How to reach me: <a href="mailto:vaibhavmcudc145@gmail.com">mail me</a><br/>
-- 😄 Pronouns: he/him/his<br/>
-- ⚡ Fun fact: Superman didn't always fly...🦸🏻<br/>
+👯 I’m looking to collaborate on some awesome projects 👀<br/>
+🤔 I’m looking for help with anything which I can learn from you.<br/>
+💬 Ask me about anything, I will try to satisfy you.<br/>
+📫 How to reach me: <a href="mailto:vaibhavmcudc145@gmail.com">mail me</a><br/>
+😄 Pronouns: he/him/his<br/>
+⚡ Fun fact: Superman didn't always fly...🦸🏻<br/>
