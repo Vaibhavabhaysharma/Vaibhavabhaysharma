@@ -26,20 +26,20 @@ const Vaibhav = {
 
 #### About Me   
 <br/>
-🚀 I am a passionate and results-driven Software Engineer (Full Stack) with 2.9 years of experience building scalable backend services and dynamic frontend components, primarily using Java, Spring Boot, Angular, and MongoDB.
-🌐 Currently working at Formidium, I’ve contributed to fintech platforms with real-time transaction systems and secure user authentication, collaborating across three engineering teams.
-🌟 I thrive in cross-functional environments, driving end-to-end development and optimizing system performance.
+🚀 I am a passionate and results-driven Software Engineer (Full Stack) with 2.9 years of experience building scalable backend services and dynamic frontend components, primarily using Java, Spring Boot, Angular, and MongoDB.<br/>
+🌐 Currently working at Formidium, I’ve contributed to fintech platforms with real-time transaction systems and secure user authentication, collaborating across three engineering teams.<br/>
+🌟 I thrive in cross-functional environments, driving end-to-end development and optimizing system performance.<br/>
 
-🔧 Designed and implemented RESTful microservices using Spring Boot, ensuring high performance and modular scalability.
-🔐 Developed secure authentication flows, including Multi-Factor Authentication (MFA).
-📊 Built MongoDB aggregation pipelines for real-time financial reporting and reconciliation logic.
-🛠 Utilized tools like Postman, Git, JIRA, Eclipse, VS Code, and containerization technologies for streamlined development.
-🔍 Enhanced backend security by applying VAPT best practices and securing APIs via optimized headers.
-🎨 Built responsive Angular components integrated with Java APIs for seamless user experiences.
-✅ Followed agile methodologies, conducted code reviews, and maintained code quality using SonarLint and clean coding principles.
+🔧 Designed and implemented RESTful microservices using Spring Boot, ensuring high performance and modular scalability.<br/>
+🔐 Developed secure authentication flows, including Multi-Factor Authentication (MFA).<br/>
+📊 Built MongoDB aggregation pipelines for real-time financial reporting and reconciliation logic.<br/>
+🛠 Utilized tools like Postman, Git, JIRA, Eclipse, VS Code, and containerization technologies for streamlined development.<br/>
+🔍 Enhanced backend security by applying VAPT best practices and securing APIs via optimized headers.<br/>
+🎨 Built responsive Angular components integrated with Java APIs for seamless user experiences.<br/>
+✅ Followed agile methodologies, conducted code reviews, and maintained code quality using SonarLint and clean coding principles.<br/>
 
-📚 A lifelong learner, I actively upskill through hands-on projects and knowledge sharing—mentoring over four junior developers along the way.
-🏆 I value clarity, collaboration, and clean code, and believe that great products emerge when engineers align technical excellence with user-first thinking.
+📚 A lifelong learner, I actively upskill through hands-on projects and knowledge sharing—mentoring over four junior developers along the way.<br/>
+🏆 I value clarity, collaboration, and clean code, and believe that great products emerge when engineers align technical excellence with user-first thinking.<br/>
 
 - 🔭 I’m currently working on a few ML projects. 📈📉📊<br/>
 - 🌱 I’m currently learning MERN stack and applied data science side by side.<br/>  
