@@ -1,7 +1,7 @@
 ### Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm <a href="https://Vaibhavabhaysharma.github.io" target="_blank"> Vaibhav</a> 
-[![Protfolio](https://img.shields.io/badge/Portfolio-239?style=for-the-badge&logo='https://Vaibhavabhaysharma.github.io'=&logoColor=white)](https://Vaibhavabhaysharma.github.io)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavabhaysharma/)
 [![Hackerrank](https://img.shields.io/badge/Hackerrank-394248?style=for-the-badge&logo=hackerrank&logoColor=1ba94c)](https://www.hackerrank.com/vaibhavmcudc145)
+[![Protfolio](https://img.shields.io/badge/Portfolio-239?style=for-the-badge&logo='https://Vaibhavabhaysharma.github.io'=&logoColor=white)](https://Vaibhavabhaysharma.github.io)
 
 <!-- <a href="https://twitter.com/__Vaibhavsharma">
 <img align="left" alt="Vaibhav's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -27,7 +27,7 @@ const Vaibhav = {
 #### About Me   
 <br/>
 🚀 I am a passionate and results-driven Software Engineer (Full Stack) with 2.9 years of experience building scalable applications.<br/>
-🛠  I’ve primarily used Java, Spring Boot, Angular, and MongoDB in creating seamless backend services and dynamic frontend components<br/>
+🛠  I’ve primarily used Java, Spring Boot, Angular, and MongoDB in creating seamless backend services and dynamic frontend components.<br/>
 🌐 I’ve contributed to fintech platforms with real-time transaction systems and secure user authentication, collaborating across three engineering teams.<br/>
 🌟 I thrive in cross-functional environments, driving end-to-end development and optimizing system performance.<br/>
 
