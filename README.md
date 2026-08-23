@@ -19,7 +19,8 @@ const Vaibhav = {
   Databases : [SQL, MongoDB]
 }
 ```
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavabhaysharma&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vaibhavabhaysharma&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats) -->
 
 ![](https://komarev.com/ghpvc/?username=Vaibhavabhaysharma&color=brightgreen)
 
